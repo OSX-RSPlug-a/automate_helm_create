@@ -1,4 +1,3 @@
-[4:06 PM] Fernando Santini
 import os
 
 root_path = './'
